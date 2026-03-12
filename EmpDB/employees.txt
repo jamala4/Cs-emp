@@ -1,0 +1,4 @@
+﻿Salaried,John,Doe,john@email.com,1200
+Hourly,Jane,Smith,jane@email.com,25,40
+Commission,Mike,Lee,mike@email.com,5000,0.10
+BasePlusCommission,Sara,Khan,sara@email.com,4000,0.08,300
