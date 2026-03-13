@@ -14,9 +14,12 @@ namespace EmpDB
             Hours = hours;
         }
 
-        public override decimal Earnings()
+       public override decimal Earnings()
         {
-            return Wage * Hours;
+            if (Hours <= 40)
+                return Wage * Hours;
+            else
+                return (40 * Wage) + ((Hours - 40) * Wage * 1.5m);
         }
 
         public override string ToString()
