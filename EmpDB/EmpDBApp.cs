@@ -17,8 +17,8 @@ namespace EmpDB
         public void Run()
         {
             LoadFromFile();
-            ProcessPayroll();
             SaveToFile();
+            ProcessPayroll();
             Console.ReadLine();
         }
 
