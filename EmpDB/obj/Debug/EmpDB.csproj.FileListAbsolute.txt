@@ -5,3 +5,10 @@ C:\Users\jamal\source\repos\EmpDB\obj\Debug\EmpDB.csproj.AssemblyReference.cache
 C:\Users\jamal\source\repos\EmpDB\obj\Debug\EmpDB.csproj.CoreCompileInputs.cache
 C:\Users\jamal\source\repos\EmpDB\obj\Debug\EmpDB.exe
 C:\Users\jamal\source\repos\EmpDB\obj\Debug\EmpDB.pdb
+C:\Users\Foste\Documents\GitHub\Cs-emp\EmpDB\bin\Debug\EmpDB.exe.config
+C:\Users\Foste\Documents\GitHub\Cs-emp\EmpDB\bin\Debug\EmpDB.exe
+C:\Users\Foste\Documents\GitHub\Cs-emp\EmpDB\bin\Debug\EmpDB.pdb
+C:\Users\Foste\Documents\GitHub\Cs-emp\EmpDB\obj\Debug\EmpDB.csproj.AssemblyReference.cache
+C:\Users\Foste\Documents\GitHub\Cs-emp\EmpDB\obj\Debug\EmpDB.csproj.CoreCompileInputs.cache
+C:\Users\Foste\Documents\GitHub\Cs-emp\EmpDB\obj\Debug\EmpDB.exe
+C:\Users\Foste\Documents\GitHub\Cs-emp\EmpDB\obj\Debug\EmpDB.pdb

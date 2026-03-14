@@ -8,6 +8,7 @@ namespace EmpDB
         public string LastName { get; set; }
         public string EmailAddress { get; set; }
 
+
         public Employee(string firstName, string lastName, string emailAddress)
         {
             FirstName = firstName;
@@ -20,6 +21,17 @@ namespace EmpDB
         public override string ToString()
         {
             return FirstName + " " + LastName + " | " + EmailAddress;
+        }
+
+        public virtual string ToStringForOutputFile()
+        {
+            string str = string.Empty;
+
+            str += $"{FirstName}\n";
+            str += $"{LastName}\n";
+            str += $"{EmailAddress}\n";
+
+            return str;
         }
     }
 }

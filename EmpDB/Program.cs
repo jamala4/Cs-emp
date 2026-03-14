@@ -27,6 +27,10 @@ namespace EmpDB
             Console.WriteLine("Pay: " + e4.Earnings().ToString("C"));
 
             Console.ReadLine();
+
+            EmpDB bd = new EmpDB();
+
+            bd.GoDataBase();
         }
     }
 }

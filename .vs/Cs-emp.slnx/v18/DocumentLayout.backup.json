@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\EmpDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmpDB\\EmpDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\EmpDBApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmpDB\\EmpDBApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmpDB\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmpDB\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\HourlyEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmpDB\\HourlyEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\EmpDB.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmpDB\\EmpDB.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\CommissionEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmpDB\\CommissionEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\BasePlusCommissionEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmpDB\\BasePlusCommissionEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\SalariedEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmpDB\\SalariedEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\employees.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmpDB\\employees.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpDB.csproj",
+              "DocumentMoniker": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\EmpDB.csproj",
+              "RelativeDocumentMoniker": "EmpDB\\EmpDB.csproj",
+              "ToolTip": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\EmpDB.csproj",
+              "RelativeToolTip": "EmpDB\\EmpDB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-14T06:26:04.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\CommissionEmployee.cs",
+              "RelativeDocumentMoniker": "EmpDB\\CommissionEmployee.cs",
+              "ToolTip": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\CommissionEmployee.cs",
+              "RelativeToolTip": "EmpDB\\CommissionEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:25:50.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasePlusCommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\BasePlusCommissionEmployee.cs",
+              "RelativeDocumentMoniker": "EmpDB\\BasePlusCommissionEmployee.cs",
+              "ToolTip": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\BasePlusCommissionEmployee.cs",
+              "RelativeToolTip": "EmpDB\\BasePlusCommissionEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:25:49.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "EmpDB\\HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\HourlyEmployee.cs",
+              "RelativeToolTip": "EmpDB\\HourlyEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:23:39.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\Employee.cs",
+              "RelativeDocumentMoniker": "EmpDB\\Employee.cs",
+              "ToolTip": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\Employee.cs",
+              "RelativeToolTip": "EmpDB\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:21:41.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpDB.cs",
+              "DocumentMoniker": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\EmpDB.cs",
+              "RelativeDocumentMoniker": "EmpDB\\EmpDB.cs",
+              "ToolTip": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\EmpDB.cs",
+              "RelativeToolTip": "EmpDB\\EmpDB.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:21:32.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpDBApp.cs",
+              "DocumentMoniker": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\EmpDBApp.cs",
+              "RelativeDocumentMoniker": "EmpDB\\EmpDBApp.cs",
+              "ToolTip": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\EmpDBApp.cs",
+              "RelativeToolTip": "EmpDB\\EmpDBApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:19:34.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\Program.cs",
+              "RelativeDocumentMoniker": "EmpDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\Program.cs",
+              "RelativeToolTip": "EmpDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:19:38.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "EmpDB\\SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\SalariedEmployee.cs",
+              "RelativeToolTip": "EmpDB\\SalariedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:25:48.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "employees.txt",
+              "DocumentMoniker": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\employees.txt",
+              "RelativeDocumentMoniker": "EmpDB\\employees.txt",
+              "ToolTip": "C:\\Users\\Foste\\Documents\\GitHub\\Cs-emp\\EmpDB\\employees.txt",
+              "RelativeToolTip": "EmpDB\\employees.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-14T06:23:40.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
